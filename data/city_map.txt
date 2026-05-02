@@ -1,0 +1,55 @@
+=== ISLAMABAD CITY MAP ===
+Total Locations: 20
+
+LOCATIONS:
+0. Shifa Hospital (Hospital)
+1. Polyclinic Hospital (Hospital)
+2. G-8 Police Station (Police)
+3. F-10 Police Station (Police)
+4. F-8 Fire Station (Fire)
+5. G-9 Fire Station (Fire)
+6. I-8 Rescue Center (Rescue)
+7. F-10 Rescue Center (Rescue)
+8. G-6 Sector (Residential)
+9. F-7 Sector (Residential)
+10. E-7 Sector (Residential)
+11. I-8 Sector (Residential)
+12. H-8 Sector (Commercial)
+13. F-6 Sector (Commercial)
+14. Blue Area (Commercial)
+15. Islamabad Highway (Road)
+16. 7th Avenue (Road)
+17. Jinnah Avenue (Road)
+18. Airport (Transport)
+19. Zero Point (Transport)
+
+CONNECTIONS (Distances in km):
+Shifa Hospital ↔ G-8 Police Station : 3 km
+Shifa Hospital ↔ G-6 Sector : 2 km
+Shifa Hospital ↔ Islamabad Highway : 4 km
+Polyclinic Hospital ↔ F-10 Police Station : 2 km
+Polyclinic Hospital ↔ F-7 Sector : 3 km
+Polyclinic Hospital ↔ Jinnah Avenue : 2 km
+G-8 Police Station ↔ F-8 Fire Station : 5 km
+G-8 Police Station ↔ G-6 Sector : 4 km
+F-10 Police Station ↔ G-9 Fire Station : 4 km
+F-10 Police Station ↔ F-10 Rescue Center : 1 km
+F-8 Fire Station ↔ I-8 Rescue Center : 6 km
+F-8 Fire Station ↔ H-8 Sector : 3 km
+G-9 Fire Station ↔ I-8 Sector : 2 km
+G-9 Fire Station ↔ 7th Avenue : 3 km
+I-8 Rescue Center ↔ I-8 Sector : 1 km
+F-10 Rescue Center ↔ E-7 Sector : 2 km
+G-6 Sector ↔ H-8 Sector : 5 km
+G-6 Sector ↔ F-6 Sector : 3 km
+F-7 Sector ↔ Blue Area : 2 km
+F-7 Sector ↔ Jinnah Avenue : 1 km
+E-7 Sector ↔ Blue Area : 4 km
+I-8 Sector ↔ Airport : 18 km
+H-8 Sector ↔ 7th Avenue : 2 km
+F-6 Sector ↔ Jinnah Avenue : 2 km
+Blue Area ↔ Zero Point : 3 km
+Islamabad Highway ↔ Airport : 10 km
+Islamabad Highway ↔ Zero Point : 5 km
+7th Avenue ↔ Zero Point : 4 km
+Jinnah Avenue ↔ Zero Point : 1 km

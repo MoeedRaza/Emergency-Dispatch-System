@@ -1,0 +1,10 @@
+=== EMERGENCY VEHICLE FLEET REPORT ===
+Total Vehicles: 3
+-------------------------------------
+Vehicle Types Available:
+  1. Ambulance
+  2. Fire Truck
+  3. Police Car
+  4. Rescue Van
+  5. Patrol Bike
+=====================================

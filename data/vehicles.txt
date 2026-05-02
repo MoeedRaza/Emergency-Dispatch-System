@@ -1,0 +1,6 @@
+101 Ambulance
+102 Ambulance
+201 Fire Truck
+301 Police Car
+401 Rescue Van
+501 Patrol Bike

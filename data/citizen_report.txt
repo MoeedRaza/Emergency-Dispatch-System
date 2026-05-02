@@ -1,0 +1,5 @@
+=== SMART CITY CITIZEN REPORT ===
+Total Registered Citizens: 3
+Generated on: [System Date]
+===============================
+

@@ -1,0 +1,6 @@
+1004|Vehicle assigned to emergency|Fri Jan  9 08:26:17 2026
+1006|Emergency reported - Type: Fire|Fri Jan  9 08:24:00 2026
+1002|Emergency reported - Type: Accident|Thu Jan  8 21:18:11 2026
+1003|Emergency reported - Type: Fire|Thu Jan  8 21:18:35 2026
+1004|Emergency reported - Type: Medical|Thu Jan  8 21:20:06 2026
+1005|Emergency reported - Type: Fire|Thu Jan  8 21:20:30 2026

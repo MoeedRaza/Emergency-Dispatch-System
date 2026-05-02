@@ -1,0 +1,14 @@
+DISPATCH RECORD:
+  Emergency at: Shifa Hospital
+  Service from: Shifa Hospital
+  Distance: 0 km
+  Estimated time: 0 minutes
+  Time: [System would have timestamp]
+-----------------------------------
+DISPATCH RECORD:
+  Emergency at: E-7 Sector
+  Service from: F-10 Police Station
+  Distance: 3 km
+  Estimated time: 6 minutes
+  Time: [System would have timestamp]
+-----------------------------------
